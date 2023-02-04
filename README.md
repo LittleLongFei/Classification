@@ -30,4 +30,24 @@ The data set used in this project comes from UCI official website.
 `https://archive.ics.uci.edu/ml/datasets/wine`
 
 
+## Requirements
+
+```
+numpy         == 1.23.4
+pandas        == 1.5.0
+scikit-learn  == 1.1.3
+```
+
+## Acknowledge
+
+Here, we pay high tribute to Professor Liu Zhiping's academic attitude and academic style, and thank him for teaching us knowledge in the course "Data Mining and Machine Learning" and guiding us to complete the work of this article.
+
+## Contribution
+
+In the process of completing this article, H.Zhang was responsible for writing 9 classification algorithms and conducting 2 classification experiments. In addition, he was also responsible for writing the contents of the two parts of the experiment (Part 3) and summary (Part 4); Zhang Liang and Ming Haoyu is responsible for the review of literature and the writing of the first and second parts of this article.
+
+## Contact 
+
+Shandong University, China, Jinan.<br>
+E-Mail: `202234949@mail.sdu.edu.cn`
 
